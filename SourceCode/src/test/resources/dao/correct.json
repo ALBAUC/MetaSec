@@ -1,0 +1,351 @@
+{
+	"name": "prueba",
+	"absolutePath": "C:\\Users\\gimen\\Documents\\CV",
+	"metadataList": [
+		{
+			"key": "File Name",
+			"value": "cv.docx",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Directory",
+			"value": "C:/Users/gimen/Documents/CV",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Size",
+			"value": "482 kB",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Modification Date/Time",
+			"value": "2024:01:06 19:54:24+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Access Date/Time",
+			"value": "2024:01:23 13:18:49+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Creation Date/Time",
+			"value": "2024:01:09 11:58:13+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Permissions",
+			"value": "-rw-rw-rw-",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Type",
+			"value": "DOCX",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Type Extension",
+			"value": "docx",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "MIME Type",
+			"value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Required Version",
+			"value": "20",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Bit Flag",
+			"value": "0x0006",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Compression",
+			"value": "Deflated",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Modify Date",
+			"value": "1980:01:01 00:00:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip CRC",
+			"value": "0xdaa5a59c",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Compressed Size",
+			"value": "498",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip Uncompressed Size",
+			"value": "3227",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Zip File Name",
+			"value": "[Content_Types].xml",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Title",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Subject",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Creator",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Keywords",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Description",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Last Modified By",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Revision Number",
+			"value": "1",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Create Date",
+			"value": "2023:01:17 22:01:00Z",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Modify Date",
+			"value": "2024:01:06 18:54:00Z",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Template",
+			"value": "Currículum vítae de administración hostelera.dotx",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Total Edit Time",
+			"value": "0",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Pages",
+			"value": "1",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Words",
+			"value": "254",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Characters",
+			"value": "1397",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Application",
+			"value": "Microsoft Office Word",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Doc Security",
+			"value": "None",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Lines",
+			"value": "11",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Paragraphs",
+			"value": "3",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Scale Crop",
+			"value": "No",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Heading Pairs",
+			"value": "Título, 1, Title, 1",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Titles Of Parts",
+			"value": ",",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Company",
+			"value": "",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Links Up To Date",
+			"value": "No",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Characters With Spaces",
+			"value": "1648",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Shared Doc",
+			"value": "No",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "Hyperlinks Changed",
+			"value": "No",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "App Version",
+			"value": "16.0000",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "ContentTypeId",
+			"value": "0x01010079F111ED35F8CC479449609E8A0923A6",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.docx"
+		},
+		{
+			"key": "File Name",
+			"value": "cv.pdf",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Directory",
+			"value": "C:/Users/gimen/Documents/CV",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Size",
+			"value": "79 kB",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Modification Date/Time",
+			"value": "2024:01:06 19:54:44+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Access Date/Time",
+			"value": "2024:01:23 13:18:49+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Creation Date/Time",
+			"value": "2024:01:09 11:58:15+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Permissions",
+			"value": "-rw-rw-rw-",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Type",
+			"value": "PDF",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "File Type Extension",
+			"value": "pdf",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "MIME Type",
+			"value": "application/pdf",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "PDF Version",
+			"value": "1.7",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Linearized",
+			"value": "No",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Page Count",
+			"value": "1",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Language",
+			"value": "es",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Tagged PDF",
+			"value": "Yes",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "XMP Toolkit",
+			"value": "3.1-701",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Producer",
+			"value": "Microsoft® Word para Microsoft 365",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Creator Tool",
+			"value": "Microsoft® Word para Microsoft 365",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Create Date",
+			"value": "2024:01:06 19:54:42+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Modify Date",
+			"value": "2024:01:06 19:54:42+01:00",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Document ID",
+			"value": "uuid:518EE179-7DD7-49B7-9B88-4EDD0B968B4D",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Instance ID",
+			"value": "uuid:518EE179-7DD7-49B7-9B88-4EDD0B968B4D",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		},
+		{
+			"key": "Creator",
+			"value": "Microsoft® Word para Microsoft 365",
+			"filePath": "C:\\Users\\gimen\\Documents\\CV\\cv.pdf"
+		}
+	]
+}
